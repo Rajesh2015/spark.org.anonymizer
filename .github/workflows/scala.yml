@@ -2,10 +2,10 @@ name: Scala CI
 on:
   push:
     branches:
-      -  rajesh/testing
+      -  main
   pull_request:
     branches:
-      -  rajesh/testing
+      -  main
 jobs:
   test:
     runs-on: ubuntu-latest

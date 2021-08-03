@@ -1,4 +1,4 @@
-name: Scala CI
+name: spark-org-anonymizer-ci
 on:
   push:
     branches:

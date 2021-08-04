@@ -171,4 +171,4 @@ Maintainers must run `sbt release` to release the artifacts to maven central.It 
 It's to be noted that `sbt release` will only release artifcats with recent scala version mentioned in `.travis.yml`.To release in multiple versions of scala we should use `sbt +release`
 ## Test
 ![Anonymize Test](https://github.com/Rajesh2015/spark.org.anonymizer/actions/workflows/scala.yml/badge.svg)
-[![codecov](https://codecov.io/gh/Rajesh2015/spark.org.anonymizer/branch/main/graph/badge.svg?token=24VFXVBRSX)](https://codecov.io/gh/Rajesh2015/spark.org.anonymizer)
+[![codecoverage](https://codecov.io/gh/Rajesh2015/spark.org.anonymizer/branch/main/graph/badge.svg?token=24VFXVBRSX)](https://codecov.io/gh/Rajesh2015/spark.org.anonymizer)

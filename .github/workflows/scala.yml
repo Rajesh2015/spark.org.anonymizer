@@ -1,4 +1,4 @@
-name: spark-org-anonymizer-ci
+name: spark-org-anonymizer-ci-test
 on:
   push:
     branches:
